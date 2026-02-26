@@ -1,0 +1,24 @@
+{
+  "total_words": 585,
+  "divine_words": 291,
+  "prime_words": 79,
+  "categories": {
+    "core": 585
+  },
+  "patterns": {
+    "pure_prime": 79,
+    "composite": 313,
+    "prime_power": 8,
+    "divine_13": 48,
+    "divine_7": 79,
+    "prime_times_2": 34,
+    "divine_19": 24
+  },
+  "gematria_min": 11,
+  "gematria_max": 3208,
+  "alphabet_size": 24,
+  "language": "Classical Greek",
+  "script": "Greek Alphabet",
+  "era": "800 BCE - present",
+  "family": "Hellenic"
+}
